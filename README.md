@@ -1,6 +1,6 @@
 # Firebase Login System (ReactJS - Firebase)
 
-Firebase login system is a simple, fully functioning user authentication application created using firebase auth and React.
+Firebase login system is a simple, fully functioning user authentication application created using firebase auth and react.
 
 ### Features
 * User registration and sign in with email & password.
