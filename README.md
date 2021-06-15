@@ -5,6 +5,11 @@
 ##### `npm install`
 ##### `npm start`
 
+## Important!
+
+For the project to run, you need to apply your firebase project's SDK to local environment variables. To do so, we put the project's config info in the provided ##### `.env.example` file. Once finished, make sure your .env.example (or whatever you rename the file to) is included in your .gitignore file so your project's info isn't uploaded when you deploy.
+Now your project should be visible on your computer locally @ http://localhost:3000/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
