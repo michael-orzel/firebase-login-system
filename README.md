@@ -13,13 +13,13 @@ Firebase login system is a simple, fully functioning user authentication applica
 * Modify email and/or password.
 
 ### Technologies
-* ReactJS (Context/Hooks)
+* ReactJS (Context API/Hooks)
 * Material UI/Core, Material UI/Lab
 * React Router DOM
 * Firebase - Auth - Firestore
 
 ### Other
-* React Social Login Buttons
+* [React Social Login Buttons](https://github.com/MichalSzorad/react-social-login-buttons)
 
 ## Start Project
 
@@ -35,6 +35,8 @@ Example: `API: process.env.CREATE_REACT_APP_FIREBASE_API_KEY`
 Once finished, make sure your .env.example file (or whatever you rename it to) is included in your .gitignore file so your project's info isn't uploaded when you build and deploy the app.
 
 Now your project should be visible on your computer locally @ http://localhost:3000/
+
+
 
 ## Getting Started with Create React App
 
