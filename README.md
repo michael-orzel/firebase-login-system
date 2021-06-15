@@ -7,7 +7,10 @@
 
 ## Important!
 
-For the project to run, you need to apply your firebase project's SDK to local environment variables. To do so, we put the project's config info in the provided ##### `.env.example` file. Once finished, make sure your .env.example (or whatever you rename the file to) is included in your .gitignore file so your project's info isn't uploaded when you deploy.
+For the project to run, you need to apply your firebase project's SDK to local environment variables. To do so, we put the project's config info in the provided `.env.example` file and use the newly assigned variables in place of the corresponding SDK info.
+Example: `API: process.env.CREATE_REACT_APP_FIREBASE_API_KEY`
+Once finished, make sure your .env.example file (or whatever you rename it to) is included in your .gitignore file so your project's info isn't uploaded when you build and deploy the app.
+
 Now your project should be visible on your computer locally @ http://localhost:3000/
 
 # Getting Started with Create React App
