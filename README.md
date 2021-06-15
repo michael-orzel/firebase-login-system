@@ -1,9 +1,9 @@
 # Start Project
 
-###### `git clone https://github.com/michael-orzel/firebase-login-system.git`
+##### `git clone https://github.com/michael-orzel/firebase-login-system.git`
 ##### `cd firebase-login-system.git`
-#### `npm install`
-### `npm start`
+##### `npm install`
+##### `npm start`
 
 # Getting Started with Create React App
 
