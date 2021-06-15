@@ -14,7 +14,7 @@ Firebase login system is a simple, fully functioning user authentication applica
 
 ### Technologies
 * ReactJS (Context API/Hooks)
-* Material UI/Core, Material UI/Lab
+* Material UI/Core; Material UI/Lab
 * React Router DOM
 * Firebase - Auth - Firestore
 
