@@ -3,14 +3,14 @@
 Firebase login system is a simple, fully functioning user authentication application created using firebase auth and react.
 
 ### Features
-* User registration and sign in with email & password.
-* User sign in with social accounts: Google, Facebook, & Twitter.
-* Stay signed in option.
-* Firestore initialization.
-* Client-side form error handling.
-* Password reset.
-* Email verification.
-* Modify email and/or password.
+* User registration and sign in with email & password
+* User sign in with social accounts: Google, Facebook, & Twitter
+* Stay signed in option
+* Firestore initialization
+* Client-side form error handling
+* Password reset
+* Email verification
+* Modify email and/or password
 
 ### Technologies
 * ReactJS (Context API/Hooks)
